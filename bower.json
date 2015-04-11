@@ -1,10 +1,10 @@
 {
-  "name": "foundation-apps-template",
-  "version": "1.1.0",
+  "name": "goChat",
+  "version": "0.0.1",
   "authors": [
     "ZURB"
   ],
-  "description": "Template project for Foundation for Apps by ZURB.",
+  "description": "chat application",
   "main": "gulpfile.js",
   "keywords": [
     "framework",
