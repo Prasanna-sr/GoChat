@@ -1,25 +1,22 @@
 {
-  "name": "goChat",
+  "name": "GoChat",
   "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prasanna-sr/GoChat.git"
+  },
+  "author": "Prasanna Ramanujam <prasannaraajkumar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prasanna-sr/GoChat/issues"
+  },
+  "homepage": "https://github.com/Prasanna-sr/GoChat",
   "devDependencies": {
-    "front-router": "^1.0.0",
-    "gulp": "^3.8.10",
-    "gulp-autoprefixer": "^1.0.1",
-    "gulp-concat": "^2.4.2",
-    "gulp-if": "^1.2.5",
-    "gulp-load-plugins": "^0.8.0",
-    "gulp-ng-html2js": "^0.2.0",
-    "gulp-ruby-sass": "^0.7.1",
-    "gulp-sass": "^1.3.3",
-    "gulp-uglify": "^1.0.2",
-    "gulp-util": "^3.0.1",
-    "gulp-webserver": "^0.9.0",
-    "rimraf": "^2.2.8",
-    "run-sequence": "^1.0.2",
-    "yargs": "^3.6.0"
-  },
-  "private": true
+    "gulp": "^3.8.11"
+  }
 }
